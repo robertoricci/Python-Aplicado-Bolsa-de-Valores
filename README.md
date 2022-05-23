@@ -1,2 +1,1 @@
-# Analise-Financeira 
-# Estudo Bolsa de Valores
+# Notebook de Estudo sobre Análise Financeira e Bolsa de Valores
